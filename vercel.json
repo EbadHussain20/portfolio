@@ -1,0 +1,5 @@
+{
+  "framework": null,
+  "buildCommand": "node scripts/sync-projects.mjs || echo sync failed",
+  "outputDirectory": "site"
+}
